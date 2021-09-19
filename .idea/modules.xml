@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Geeks for Geeks/TrigCalc/TrigCalc.iml" filepath="$PROJECT_DIR$/Geeks for Geeks/TrigCalc/TrigCalc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Programming Masterclass/Section 3 - First Steps/Introduction/helloWorld/helloWorld.iml" filepath="$PROJECT_DIR$/Java Programming Masterclass/Section 3 - First Steps/Introduction/helloWorld/helloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaSelfStudy.iml" filepath="$PROJECT_DIR$/.idea/javaSelfStudy.iml" />
     </modules>
   </component>
