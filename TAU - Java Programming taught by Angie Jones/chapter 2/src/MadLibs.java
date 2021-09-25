@@ -11,16 +11,18 @@ public class MadLibs {
         System.out.println("Please enter a season of the year.");
         String season = input.nextLine();
 
-        // ask for whole number
-        System.out.println("Please enter a whole number.");
-        int wholeNum = input.nextInt();
-
         // ask for adjective
         System.out.println("Please enter an adjective.");
         String adj = input.nextLine();
 
+        // ask for whole number
+        System.out.println("Please enter a whole number.");
+        int wholeNum = input.nextInt();
+
+        input.close();
+
         // print madlib
-        System.out.println("On a " + adj + " " + season + "day, I drink a minimum of " + wholeNum + "cups off coffee.");
+        System.out.println("On a " + adj + " " + season + " day, I drink a minimum of " + wholeNum + " cups of coffee.");
 
     }
 }
