@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/TAU - Java Programming taught by Angie Jones/chapter 3/3a if statements/3a if statements.iml" filepath="$PROJECT_DIR$/TAU - Java Programming taught by Angie Jones/chapter 3/3a if statements/3a if statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TAU - Java Programming taught by Angie Jones/chapter 3/3b if else statements/3b if else statements.iml" filepath="$PROJECT_DIR$/TAU - Java Programming taught by Angie Jones/chapter 3/3b if else statements/3b if else statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TAU - Java Programming taught by Angie Jones/chapter 3/3c nested if statements/3c nested if statements.iml" filepath="$PROJECT_DIR$/TAU - Java Programming taught by Angie Jones/chapter 3/3c nested if statements/3c nested if statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TAU - Java Programming taught by Angie Jones/chapter 3/3d if else if statements/3d if else if statements.iml" filepath="$PROJECT_DIR$/TAU - Java Programming taught by Angie Jones/chapter 3/3d if else if statements/3d if else if statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoloLearn/Java/Conditional Statements/Conditional Statements.iml" filepath="$PROJECT_DIR$/SoloLearn/Java/Conditional Statements/Conditional Statements.iml" />
       <module fileurl="file://$PROJECT_DIR$/SoloLearn/Java/Increment &amp; Decrement/Increment &amp; Decrement.iml" filepath="$PROJECT_DIR$/SoloLearn/Java/Increment &amp; Decrement/Increment &amp; Decrement.iml" />
       <module fileurl="file://$PROJECT_DIR$/SoloLearn/Java/Primitive Operators/Primitive Operators.iml" filepath="$PROJECT_DIR$/SoloLearn/Java/Primitive Operators/Primitive Operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/Geeks for Geeks/TrigCalc/TrigCalc.iml" filepath="$PROJECT_DIR$/Geeks for Geeks/TrigCalc/TrigCalc.iml" />
       <module fileurl="file://$PROJECT_DIR$/TAU - Java Programming taught by Angie Jones/TAU - Java Programming taught by Angie Jones/chapter 2/chapter 2.iml" filepath="$PROJECT_DIR$/TAU - Java Programming taught by Angie Jones/TAU - Java Programming taught by Angie Jones/chapter 2/chapter 2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TAU - Java Programming taught by Angie Jones/chapter 2/chapter 2 fundies.iml" filepath="$PROJECT_DIR$/TAU - Java Programming taught by Angie Jones/chapter 2/chapter 2 fundies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TAU - Java Programming taught by Angie Jones/chapter 2 java fundamentals/chapter 2 java fundamentals.iml" filepath="$PROJECT_DIR$/TAU - Java Programming taught by Angie Jones/chapter 2 java fundamentals/chapter 2 java fundamentals.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Programming Masterclass/Section 3 - First Steps/Introduction/helloWorld/helloWorld.iml" filepath="$PROJECT_DIR$/Java Programming Masterclass/Section 3 - First Steps/Introduction/helloWorld/helloWorld.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TAU - Java Programming taught by Angie Jones/chapter 3/if else statements/if else statements.iml" filepath="$PROJECT_DIR$/TAU - Java Programming taught by Angie Jones/chapter 3/if else statements/if else statements.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TAU - Java Programming taught by Angie Jones/chapter 3/if statements/if statements.iml" filepath="$PROJECT_DIR$/TAU - Java Programming taught by Angie Jones/chapter 3/if statements/if statements.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaSelfStudy.iml" filepath="$PROJECT_DIR$/.idea/javaSelfStudy.iml" />
     </modules>
   </component>
