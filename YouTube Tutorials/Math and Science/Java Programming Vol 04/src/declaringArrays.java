@@ -23,6 +23,7 @@ public class declaringArrays {
         System.out.println("The fourth child's age is " + ages[3] + ".");
         System.out.println("The fifth child's age is " + ages[4] + ".");
 
+
         // ------------------ heights
 
         double heights[] = new double[5];
