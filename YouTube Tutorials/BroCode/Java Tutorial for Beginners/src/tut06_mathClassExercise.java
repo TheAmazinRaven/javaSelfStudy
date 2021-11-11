@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class tut06mathClassExercise {
+public class tut06_mathClassExercise {
     public static void main(String[] args) {
         // find hypotenuse of triangle
 
